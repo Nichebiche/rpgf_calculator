@@ -22,7 +22,7 @@
     "csv-writer": "^1.6.0",
     "dotenv": "^16.3.1",
     "ethers": "^6.9.1",
-    "web3": "^4.3.0"
+    "web3": "^4.16.0"
   },
   "devDependencies": {
     "prettier": "^3.1.1"
