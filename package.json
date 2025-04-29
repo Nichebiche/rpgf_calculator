@@ -20,7 +20,7 @@
     "@alch/alchemy-web3": "^1.4.7",
     "csv-parser": "^3.0.0",
     "csv-writer": "^1.6.0",
-    "dotenv": "^16.3.1",
+    "dotenv": "^16.4.7",
     "ethers": "^6.9.1",
     "web3": "^4.3.0"
   },
